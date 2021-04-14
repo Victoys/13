@@ -284,6 +284,21 @@ Description: 相册添加彻底删除照片选项，支持iOS 13
 Author: Victoys
 Name: DeletePhotos
 
+Package: com.victoys.pro
+Version: 3.5.7
+Architecture: iphoneos-arm
+Maintainer: Victoys
+Depends: mobilesubstrate, com.creaturecoding.libcspreferences, preferenceloader
+Filename: debs/pro.deb
+Size: 804156
+MD5sum: c73d8092ea0dfe41d670e40d3e81acdd
+SHA1: 02cab6fa267b48e12177fcde4997960fd7ec7c29
+SHA256: 0e632e67988bd190c0e884ddae1e273a2e7d0495a8af4d656d7ab7dff7a75bcd
+Section: Tweaks
+Description: 能破解的app开启VIP权限
+Author: Victoys
+Name: Pro助手
+
 Package: com.victoys.reprovision
 Version: 0.5.2-1
 Architecture: iphoneos-arm
