@@ -220,6 +220,21 @@ Description: 自动显示京东商品历史最低价、历史最高价、内部�
 Author: Victoys
 Name: 京东优惠券
 
+Package: com.victoys.killxpro
+Version: 2.1.2
+Architecture: iphoneos-arm
+Maintainer: Victoys
+Depends: firmware (>= 13.0), mobilesubstrate, applist, ws.hbang.common (>= 1.13)
+Filename: debs/killxpro.deb
+Size: 170372
+MD5sum: 0fa0cf4a7bec8ecac64250cadbfbd785
+SHA1: 614674468d3a0ada3f3bd6711472d6513949561d
+SHA256: 8862841ae2d3201feae887931a8addb637735f6415a9ca62262315bdb6036af4
+Section: System
+Description: 一键关闭后台插件，仅兼容iOS 13系统
+Author: Victoys
+Name: KillX Pro
+
 Package: com.victoys.localiapstore
 Version: 1.4-1
 Architecture: iphoneos-arm
