@@ -161,15 +161,15 @@ Author: Victoys
 Name: 爱阅书香
 
 Package: com.victoys.douyin
-Version: 2.0-1
+Version: 2.1-8
 Architecture: iphoneos-arm
 Maintainer: Victoys
 Depends: mobilesubstrate
 Filename: debs/douyin.deb
-Size: 113044
-MD5sum: 56d921646ccde475dcde83679a3253a2
-SHA1: a6d49df2fb7d8590492cd0dfaec66cc616c3911a
-SHA256: 8a410636dcd9e893d227acdf9f037eb5ca4dc2fb72525894b99e00e48a4cad82
+Size: 142452
+MD5sum: 70d3b7359c190e729fe1bfc746eab6a2
+SHA1: 7d0a49a813dafcf6aeadd74258d65f62f848ee79
+SHA256: ad54c14b721b76e41ce40e8bb457912a73c5108bf502bf2ac2a4b759059a3ae1
 Section: Tweaks
 Description: 去全局广告、保存限制视频、保存视频无水印、自动播放等
 Author: Victoys
